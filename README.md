@@ -55,7 +55,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 ## <a name="features">🔋 Features</a>
 
 👉 **Hero**: Captivating introduction featuring a spotlight effect and dynamic background.
-
+this is classied
 👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
 
 👉 **3D Elements**:  Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
